@@ -1,5 +1,5 @@
 # OOP-Laba3
-``` cs
+``` bash
 cd ./FootballApi
 dotnet run
 ```
